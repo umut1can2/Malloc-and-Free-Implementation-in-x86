@@ -2,7 +2,7 @@
 #include "myalloc.h"
 
 /*
-Testing Free
+//Testing Free
 */
 int main()
 {
